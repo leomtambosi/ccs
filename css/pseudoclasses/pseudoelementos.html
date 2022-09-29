@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <title>pseudoelementos</title>
+        <style>
+            p::before {
+                content: "Veja isso - ";
+            }
+            p::after {
+                content:" - Veja mais";
+            }
+            p::first-letter {
+                font-size: 200%;
+                color: blueviolet;
+            }
+            P::first-line {
+                background-color: yellow;
+            }
+        </style>
+    </head>
+    <body>
+        <p>Meu nome é Donald</p>
+        <p>Eu moro em in Ducksburg</p>
+        <p>Meu melhor amigo é o Mickey.</p>
+    </body>
+</html>

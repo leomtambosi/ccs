@@ -1,0 +1,58 @@
+
+body{
+    background-color: rgb(255, 0, 191);
+    color: #0000ff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+h1 {
+    background-color: blue;
+    color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 200%;
+    text-shadow: 3px 3px 5px #cccccc;
+    padding: 0,5em;
+}
+h2 {
+    background-color: blueviolet;
+    color: deeppink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border-bottom: 2px dashed #191970;
+}
+p {
+    font-size: 0.90em;
+    text-indent: 3em;
+    background-color: #db2bdb;
+}
+p.fundo {
+    background-color: black;
+}
+ul {
+    font-weight: bold;
+    color: orange;
+}
+footer {
+    background-color: rgb(243, 6, 6);
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.75em;
+    font-style: italic;
+}
+nav {
+    font-weight: bold;
+}
+.feature {
+    color: #c70000;
+}
+.company {
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.25em;
+}
+
+.cor_texto {
+    color: #ffffff;
+}

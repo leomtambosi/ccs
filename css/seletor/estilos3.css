@@ -1,0 +1,14 @@
+@charset "utf-8";
+* {
+    background-color: pink;
+    color: black;
+}
+table * {
+    background-color: aqua;
+    text-align: center;
+    width: 400px;
+}
+p {
+    background-color: white;
+    color: blue;
+}

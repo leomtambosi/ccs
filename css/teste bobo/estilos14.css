@@ -1,0 +1,22 @@
+@charset "utf-8";
+body {
+    background: black;
+}
+section {
+    border: 1px solid blue;
+width: 100%;
+float: left;
+}
+div {
+    margin: 5px;
+ width: 50px;
+ height: 150px;
+}
+.esquerda {
+    float: left;
+ background: red;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
